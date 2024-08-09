@@ -8,7 +8,7 @@ If you have any wallpapers that you'd like to share, feel free to open a pull re
 
 ## Author
 
-This repository is maintained by **sp3c73rsh4d0w**.
+This repository is maintained by **n3rdyn3xus**.
 
 ## License
 
